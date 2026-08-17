@@ -1,2 +1,2 @@
 # coding-practice
-My and Data Structures practice
+My Programming and Data Structures practice
