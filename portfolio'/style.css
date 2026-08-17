@@ -1,0 +1,23 @@
+body{
+    font family: Arial, sans-serif;
+    margin:0;
+    line-height:1.6;
+}
+header{
+    text-align: center;
+    padding: 80px 20px;
+    color:firebrick
+}
+nav{
+    text-align: center;
+    padding:20px;
+}
+nav a{
+    margin: 15px;
+    text-decoration: none;
+}
+section{
+    ax-width: 800px;
+    margin: auto;
+    padding: 50px 20px;
+}
